@@ -1,4 +1,71 @@
-<img align="center" src="Img/Your-Tool-Banner.png" width="100%"> 
+# Your.Tool
+
+<div align="center">
+  <img src="Img/Your-Tool-Banner.png" alt="Your.Tool Banner" width="800"/>
+  
+  <h3>Un outil multifonction pour la sécurité et le pentest</h3>
+</div>
+
+## 📸 Aperçu
+
+<div align="center">
+  <img src="Img/Menu1.png" alt="Your.Tool Menu" width="800"/>
+</div>
+
+## Fonctionnalités
+
+- 🔍 Outils de scan réseau
+- 🕵️ Outils OSINT
+- 🔐 Outils de sécurité
+- 🤖 Outils Discord
+- 🛠️ Utilitaires divers
+
+## Installation
+
+1. Clonez le repository :
+```bash
+git clone https://github.com/votre-username/Your.Tool.git
+cd Your.Tool
+```
+
+2. Téléchargez les assets additionnels depuis la page des releases et extrayez-les :
+- `wordlists.zip` -> décompressez dans `2-Input/WorldList/`
+- `templates.zip` -> décompressez dans `Program/FileDetectedByAntivirus/Templates/`
+
+3. Installez les dépendances :
+```bash
+pip install -r requirements.txt
+```
+
+4. Lancez l'installation :
+```bash
+python Setup.py
+```
+
+5. Démarrez l'outil :
+```bash
+python Your.Tool.py
+```
+
+## Structure du Projet
+
+- `Program/` : Contient les scripts principaux
+- `1-Output/` : Dossier de sortie pour les résultats
+- `2-Input/` : Fichiers d'entrée et ressources
+- `Config/` : Configuration de l'outil
+- `Img/` : Images et ressources graphiques
+
+## Note sur les Wordlists et Templates
+
+Pour des raisons de taille, les wordlists et templates sont distribués séparément dans les releases GitHub. Assurez-vous de les télécharger et de les placer dans les dossiers appropriés comme indiqué dans les instructions d'installation.
+
+## ⚠️ Avertissement
+
+Cet outil est destiné uniquement à des fins éducatives et de test. L'utilisation malveillante est strictement interdite.
+
+## 📝 License
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 <h1 align="center">Multi-Tools</h1>
 
@@ -20,6 +87,7 @@
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
   - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
   - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
+  - <strong>Frequently updated</strong>.<br>
   - <strong>Free</strong> for everyone.<br>
   - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..<br>
   - Some features are from <strong>RedTiger</strong> (@https://github.com/loxy0dev/RedTiger-Tools)
@@ -29,10 +97,10 @@
 <h1 align="center">Tools</h1>
 
 <p align="center">
-  <img src="Img/Menu1.png" width="49%"> 
-  <img src="Img/Menu2.png" width="49%"> 
-  <img src="Img/Menu3.png" width="49%"> 
-  <img src="Img/Menu4.png" width="49%">
+  <img src="Img/Your-Tool.png" width="49%"> 
+  <img src="Img/Your-Tool-2.png" width="49%"> 
+  <img src="Img/Your-Tool-3.png" width="49%"> 
+  <img src="Img/Builder.png" width="49%">
   <br><br>
 </p>
 
@@ -177,8 +245,8 @@
 ```
 1 - Téléchargez le dossier .zip
 2 - Décompressez le dossier
-3 - Lancez "Setup.py" (une seule fois pour l'installation)
-4 - Utilisez "Your.Tool.py" pour lancer l'outil à chaque utilisation
+3 - Lancez "Setup.bat" (une seule fois pour l'installation)
+4 - Utilisez "Start.bat" pour lancer l'outil à chaque utilisation
 ```
 Ou avec Git
 ```
@@ -187,7 +255,7 @@ Ou avec Git
 3 - Exécutez "cd Your.Tool"
 4 - Exécutez "git pull"
 5 - Exécutez "python Setup.py" (ou lancez Setup.bat)
-6 - Utilisez "Your.Tool.py" pour lancer l'outil à chaque utilisation
+6 - Utilisez "Start.bat" pour lancer l'outil à chaque utilisation
 ```
 <br><br>
 </p>
@@ -205,47 +273,15 @@ Ou avec Git
 
 <h1 align="center">Donation</h1>
 
+<p>
+  
+  <strong>Bitcoin Adress:</strong>
+  ``` 
+bc1qwdvhtdyqjfk8lwqkcj5pn44n5f758r2pprn8de
+  ```
+  <strong>Litecoin Adress:</strong>
+  ```
+Ld9H6pvsWMS9UtjFh2xwdGH9sePtum81NN
+  ```
+
 </p>
-
-# Your.Tool
-
-Un outil multifonction pour la sécurité et le pentest.
-
-## Installation
-
-1. Clonez le repository :
-```bash
-git clone https://github.com/votre-username/Your.Tool.git
-cd Your.Tool
-```
-
-2. Téléchargez les assets additionnels depuis la page des releases et extrayez-les :
-- `wordlists.zip` -> décompressez dans `2-Input/WorldList/`
-- `templates.zip` -> décompressez dans `Program/FileDetectedByAntivirus/Templates/`
-
-3. Installez les dépendances :
-```bash
-pip install -r requirements.txt
-```
-
-4. Lancez l'installation :
-```bash
-python Setup.py
-```
-
-5. Démarrez l'outil :
-```bash
-python Your.Tool.py
-```
-
-## Structure du Projet
-
-- `Program/` : Contient les scripts principaux
-- `1-Output/` : Dossier de sortie pour les résultats
-- `2-Input/` : Fichiers d'entrée et ressources
-- `Config/` : Configuration de l'outil
-- `Img/` : Images et ressources graphiques
-
-## Note sur les Wordlists et Templates
-
-Pour des raisons de taille, les wordlists et templates sont distribués séparément dans les releases GitHub. Assurez-vous de les télécharger et de les placer dans les dossiers appropriés comme indiqué dans les instructions d'installation.
