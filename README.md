@@ -178,8 +178,8 @@
 ```
 1 - Téléchargez le dossier .zip
 2 - Décompressez le dossier
-3 - Lancez "Setup.bat" (une seule fois pour l'installation)
-4 - Utilisez "Start.bat" pour lancer l'outil à chaque utilisation
+3 - Lancez "Setup.py" (une seule fois pour l'installation)
+4 - Utilisez "Your.Tool.py" pour lancer l'outil à chaque utilisation
 ```
 Ou avec Git
 ```
@@ -188,7 +188,7 @@ Ou avec Git
 3 - Exécutez "cd Your.Tool"
 4 - Exécutez "git pull"
 5 - Exécutez "python Setup.py" (ou lancez Setup.bat)
-6 - Utilisez "Start.bat" pour lancer l'outil à chaque utilisation
+6 - Utilisez "Your.Tool.py" pour lancer l'outil à chaque utilisation
 ```
 <br><br>
 </p>
