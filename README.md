@@ -30,10 +30,10 @@
 <h1 align="center">Tools</h1>
 
 <p align="center">
-  <img src="Img/Your-Tool.png" width="49%"> 
-  <img src="Img/Your-Tool-2.png" width="49%"> 
-  <img src="Img/Your-Tool-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
+  <img src="Img/Menu1.png" width="49%"> 
+  <img src="Img/Menu2.png" width="49%"> 
+  <img src="Img/Menu3.png" width="49%"> 
+  <img src="Img/Menu4.png" width="49%">
   <br><br>
 </p>
 
@@ -205,17 +205,6 @@ Ou avec Git
 </p>
 
 <h1 align="center">Donation</h1>
-
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-bc1qwdvhtdyqjfk8lwqkcj5pn44n5f758r2pprn8de
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-Ld9H6pvsWMS9UtjFh2xwdGH9sePtum81NN
-  ```
 
 </p>
 
