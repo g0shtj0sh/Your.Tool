@@ -97,10 +97,10 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 <h1 align="center">Tools</h1>
 
 <p align="center">
-  <img src="Img/Your-Tool.png" width="49%"> 
-  <img src="Img/Your-Tool-2.png" width="49%"> 
-  <img src="Img/Your-Tool-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
+  <img src="Img/Menu1.png" width="49%"> 
+  <img src="Img/Menu2.png" width="49%"> 
+  <img src="Img/Menu3.png" width="49%"> 
+  <img src="Img/Menu4.png" width="49%">
   <br><br>
 </p>
 
@@ -269,19 +269,4 @@ Ou avec Git
   - By choosing to use Your.Tool, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
   - All scripts in the "Program/FileDetectedByAntivirus" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
-</p>
-
-<h1 align="center">Donation</h1>
-
-<p>
-  
-  <strong>Bitcoin Adress:</strong>
-  ``` 
-bc1qwdvhtdyqjfk8lwqkcj5pn44n5f758r2pprn8de
-  ```
-  <strong>Litecoin Adress:</strong>
-  ```
-Ld9H6pvsWMS9UtjFh2xwdGH9sePtum81NN
-  ```
-
 </p>
